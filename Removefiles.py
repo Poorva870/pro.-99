@@ -59,6 +59,5 @@ else:
 print(f"Total folders deleted: {deleted_folders_count}") 
 print(f"Total files deleted: {deleted_files_count}") 
 
-def remove_folder(path): 
+def remove_folder(path)
     # removing the folder
-    deleted_folders_count += 1 
